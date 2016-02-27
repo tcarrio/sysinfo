@@ -63,4 +63,7 @@ target/
 
 # json files
 *.json
+
+# toms personal oddities
 test/*
+pull_requests/*
